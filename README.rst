@@ -10,7 +10,7 @@ Install
 
 .. code:: bash
 
-    $ pip install numpy-buffer
+    $ pip install git+https://github.com/scls19fr/numpy-buffer/
 
 Ring Buffer
 -----------
